@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import formats from '@rdfjs/formats-common'
 import $rdf from 'rdf-ext'
 import datasetExt from 'rdf-dataset-ext'
