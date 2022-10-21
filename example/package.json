@@ -1,0 +1,10 @@
+{
+  "name": "rdf-parser-csvw-example",
+  "type": "module",
+  "dependencies": {
+    "@rdfjs/formats-common": "^3.0.0",
+    "rdf-dataset-ext": "^1.0.1",
+    "rdf-ext": "^2.1.0",
+    "rdf-utils-fs": "^2.2.0"
+  }
+}
